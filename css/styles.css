@@ -120,10 +120,48 @@ nav a:hover {
 dl {
 	padding:20px;
 	margin: 10px;
+	font-family: 'Andika', sans-serif;
+	font-color: #6A2C51;
+}
+
+dt {
+	margin-left: 15px;
+	padding:10px;
+	font-family: 'Andika', sans-serif;
+	font-color: #6A2C51;
+}
+
+dd {
+	margin-left: 35px;
+	padding: 10px;
+	font-family: 'Andika', sans-serif;
+	font-color: #6A2C51;
 }
 
 .text {
 	font-family: 'Andika', sans-serif;
 	font-size: 30px;
 	color: #6A2C51;
+}
+
+.text-about {
+	font-family: 'Andika', sans-serif;
+	font-size: 18px;
+	color: #6A2C51;
+	padding: 10px;
+}
+
+h1 {
+	padding: 10px;
+	font-family: 'Andika', sans-serif;
+	font-size: 25px;
+	color: #6A2C51;
+}
+
+.info {
+	font-style: italic;
+}
+
+.title {
+	font-weight: bold;
 }
